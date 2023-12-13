@@ -54,4 +54,4 @@ This PDF Viewer is licensed under the [MIT License](LICENSE).
 ## Author
 
 - Athallah1234
-- [Your GitHub Profile](https://github.com/Athallah1234)
+- [My GitHub Profile](https://github.com/Athallah1234)
