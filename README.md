@@ -22,8 +22,8 @@ This is a simple PDF viewer built using Python and the Tkinter library. The PDF 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pdf-viewer.git
-   cd pdf-viewer
+   git clone https://github.com/Athallah1234/PDF-Viewer.git
+   cd PDF-Viewer
    ```
 2. Install the required dependencies:
    ```bash
